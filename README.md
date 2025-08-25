@@ -7,6 +7,5 @@
 
 ## 下载
 
-请前往 Release 下载 VSIX 文件。
+请前往 [Releases](https://github.com/ShihaoShen2025/purple-theme/releases) 或 [Visual Studio Marketplace（尚未上架）](https://marketplace.visualstudio.com/items?itemName=ShihaoShen.PurpleTheme) 下载 VSIX 文件。
 
-此主题尚未上架 Visual Studio Marketplace。
