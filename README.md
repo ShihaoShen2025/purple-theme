@@ -3,7 +3,7 @@
 
 ## 现在就看看
 
-![截屏](C:\Users\Administrator\source\repos\purple-theme\assets\screenshot.png)
+![截屏](assets/screenshot.png)
 
 ## 下载
 
