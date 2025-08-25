@@ -3,7 +3,7 @@
 
 ## 现在就看看
 
-![截屏](assets/screenshot.png)
+![截屏](screenshot.png)
 
 ## 下载
 
