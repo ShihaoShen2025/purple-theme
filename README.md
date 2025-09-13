@@ -1,3 +1,6 @@
+> [!NOTE]
+> 由于 VS2026 的默认 UI 实在太豪堪了，所以项目停止更新。
+
 # Purple Theme
 紫色 Visual Studio 主题，基于默认蓝色主题修改。
 
